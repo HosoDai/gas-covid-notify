@@ -1,0 +1,9 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "oauthScopes": ["https://www.googleapis.com/auth/gmail.send", "https://www.googleapis.com/auth/gmail.compose", "https://www.googleapis.com/auth/gmail.modify", "https://mail.google.com/", "https://www.googleapis.com/auth/gmail.addons.current.action.compose",
+  "https://www.googleapis.com/auth/calendar", "https://www.googleapis.com/auth/calendar.readonly", "https://www.google.com/calendar/feeds"],
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
